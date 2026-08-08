@@ -1,7 +1,6 @@
 import React from 'react'
 import Navbar from '../../Components/Navbar/Navbar';
 import Hero from '../../Components/Hero/Hero';
-import wolf2 from '../../assets/wolf2.png';
 import Login from '../../Components/Login/Login';
 import Signup from '../../Components/Signup/Signup';
 const Home = () => {
