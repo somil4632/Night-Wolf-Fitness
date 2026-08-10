@@ -21,7 +21,7 @@ const Signup = () => {
                    <img src={wolf2} alt="Night Wolf Fitness" className=' mt-10 h-[250px] w-[250px] rounded-full border-2 border-white border-bold'/>
                   <div className="mt-10 p-2 w-[80%] border-2 bg-teal-700 mx-auto rounded-lg text-white text-center text-lg hover:bg-teal-950 font-semibold  cursor-pointer">Sign In</div>
                <div className="mt-5 p-2 w-[80%] border-2 bg-teal-700 mx-auto rounded-lg text-white text-center text-lg hover:bg-teal-950 font-semibold  cursor-pointer" onClick={()=>handleClose()}>Forgot Password</div>
-                  {forgotPassword && (<Modal handleClose={handleClose} content={<ForgotPassword />}/>)}
+                  {forgotPassword && (<Modal header="Forgot Password" handleClose={handleClose} content={<ForgotPassword />}/>)}
              </div>
     )
 }
