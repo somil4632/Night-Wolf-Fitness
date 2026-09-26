@@ -5,4 +5,4 @@ i am trying to make gym management system with setting up a full database also i
 <img width="945" height="388" alt="image" src="https://github.com/user-attachments/assets/69c784ad-64a9-4d34-a432-7a841e671581" />
 <img width="954" height="347" alt="image" src="https://github.com/user-attachments/assets/7a5534ca-dbda-48f9-b69e-63d3f9b475bc" />
 ## Credits 
-i am following a youtube tutorial to learn the database thing https://www.youtube.com/watch?v=a1HlLIVTvO0&list=PL0wRpfJO-IVfusEDw4vAXIBQDUISI6a7t also 
+i am following a youtube tutorial to learn the database thing https://www.youtube.com/watch?v=a1HlLIVTvO0&list=PL0wRpfJO-IVfusEDw4vAXIBQDUISI6a7t also the image is used were some random from google i might draw them myself in future 
