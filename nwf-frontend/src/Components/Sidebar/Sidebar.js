@@ -7,7 +7,7 @@ const Sidebar = () => {
              </div>
                 <div>
                    <div>
-                 <img />
+                 <img src={...} alt="" />
          </div>
     </div>
   </div> 
